@@ -28,7 +28,7 @@ const MapAddress = () => {
         </h2>
         <h3 className={style.phone}>
           Phone:
-          <Link href={"tel: +918766962067"}>+91 87669 62067</Link>
+          <Link href={"tel: +918767034157"}>+91 87670 34157</Link>
           <span className="px-2">/</span>
           <Link href={"tel: +919175772356"}>+91 91757 72356</Link>
         </h3>
