@@ -49,7 +49,7 @@ const ContactForm = () => {
                         <h1 className={style.title}>our office !</h1>
                         <h2 className={style.address}>Minar Apartment, <br /> Law College Rd, <br /> Pune</h2>
                         <h3 className={style.phone}>Phone:
-                            <Link className='px-2' href={'tel: +918766962067'}>+91 87669 62067</Link>
+                            <Link className='px-2' href={'tel: +918767034157'}>+91 87670 34157</Link>
                             <span>/</span>
                             <Link className='px-2' href={'tel: +919175772356'}>+91 91757 72356</Link>
                         </h3>
