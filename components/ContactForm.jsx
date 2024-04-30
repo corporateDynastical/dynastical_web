@@ -78,8 +78,8 @@ const ContactForm = () => {
             </p>
             <p className={style.phone}>
               Phone:
-              <Link className="px-2" href={"tel: +918766962067"}>
-                +91 87669 62067
+              <Link className="px-2" href={"tel: +918767034157"}>
+                +91 8767034157
               </Link>
               <span>/</span>
               <Link className="px-2" href={"tel: +919175772356"}>
