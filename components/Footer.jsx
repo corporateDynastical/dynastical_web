@@ -163,8 +163,8 @@ const Footer = () => {
                         <div className="icon">
                         <IoMdCall/>
                         </div>
-                        <Link href={'tel: +918766962067'} className="text">
-                            +91 87669 62067
+                        <Link href={'tel: +919175772356'} className="text">
+                            +91 9175772356
                         </Link>
                     </li>
                 </ul>
