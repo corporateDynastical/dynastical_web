@@ -84,7 +84,7 @@ const EventsPageHero = () => {
                     <motion.h1
                         animate={{ translateX: isInView1 ? 0 : -500 }}
                         transition={{ duration: 1 }}
-                        className={`${style.title} ${didact.className}`}><span>Coporate</span> Events
+                        className={`${style.title} ${didact.className}`}><span>Corporate</span> Events
                     </motion.h1>
                 </div>
                 <h2 className={style.tagline}>Your corporate events made perfect with seamless planning!</h2>
