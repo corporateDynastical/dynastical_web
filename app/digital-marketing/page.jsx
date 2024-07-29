@@ -16,7 +16,7 @@ const page = () => {
       <PageTitle subHeading={'we offer'} title={'digital marketing'} />
       <DigitalMarketing />
       <Slider
-        title={'Our Coporate Clients'}
+        title={'Our Corporate Clients'}
         href={'/corporate-clients'}
         onPage={true}
         data={[
