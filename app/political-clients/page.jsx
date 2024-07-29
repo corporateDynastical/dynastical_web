@@ -17,7 +17,7 @@ const page = () => {
       <ClientsShowCase />
       <PoliticalClientTestimonials />
       <Slider
-        title={'Our Coporate Clients'}
+        title={'Our Corporate Clients'}
         href={'/corporate-clients'}
         onPage={true}
         data={[
