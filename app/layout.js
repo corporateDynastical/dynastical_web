@@ -19,13 +19,13 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={outfit.className}>
-        <Navbar />
-        <ScrollComponent />
-        <ScrollToTop />
-        {children}
-        <FooterNew />
-      </body>
+    <body className={outfit.className}>
+    {/* <Navbar /> */}
+    {/* <ScrollComponent /> */}
+    {/* <ScrollToTop /> */}
+    {children}
+    {/* <FooterNew /> */}
+</body>
     </html>
   )
 }
